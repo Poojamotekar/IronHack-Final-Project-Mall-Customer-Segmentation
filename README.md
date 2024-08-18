@@ -10,3 +10,9 @@ To identify such customers, this project analyses and forms clusters based on di
 This dataset contains basic information about mall customers, such as customer ID, gender, age, annual income (k$), and spending score (1–100)
 A spending score is a score assigned to each customer based on their spending behavior. 
 Annual income is the annual income of the customer, typically measured in thousands of dollars (k).
+# The Approach 
+Performing EDA(Exploratory Data Analysis)
+Using KMEANS Clustering and DBSCAN Algorithm to create our segments.
+Using Summary Statistics on the clusters.
+Data visualization
+![image](https://github.com/user-attachments/assets/c2e5b48d-3483-4814-92da-2e3eb12eec23)
