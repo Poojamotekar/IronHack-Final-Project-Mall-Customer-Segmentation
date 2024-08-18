@@ -11,8 +11,8 @@ This dataset contains basic information about mall customers, such as customer I
 A spending score is a score assigned to each customer based on their spending behavior. 
 Annual income is the annual income of the customer, typically measured in thousands of dollars (k).
 # The Approach 
-  Performing EDA(Exploratory Data Analysis). 
-  Using KMEANS Clustering and DBSCAN Algorithm to create our segments.
-  Using Summary Statistics on the clusters.
-  Data visualization
+  ### Performing EDA(Exploratory Data Analysis). 
+  ### Using KMEANS Clustering and DBSCAN Algorithm to create our segments.
+  ### Using Summary Statistics on the clusters.
+  ### Data visualization
   
